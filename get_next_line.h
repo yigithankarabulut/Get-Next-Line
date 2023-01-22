@@ -19,7 +19,6 @@
 
 # include <unistd.h>
 # include <stdlib.h>
-# include <fcntl.h>
 
 size_t	ft_strlen(char *s);
 int		ft_strchr(char *s);
